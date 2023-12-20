@@ -1,0 +1,267 @@
+## Twitter
+https://x.com/cryptosiem/status/1736567149060096294?s=20
+- tools
+	- banana gun 
+	- twitter
+		- use lists
+		- group every project you're invested in, or looking at investing in, into a list and look for changes --> react to them first 
+		- if you were late to a narrative, go back and check accounts that started sharing it first 
+			- create a list of these traders
+	- new contracts/pair checker
+		- checks 95%+ of new contracts deployed on ETH while awake and active
+			- wouldn't work as well on SOL due to sheer # of coins launched every hour
+				- **ETH still favors the hunter**
+		- prefers to buy post-launch after vetting buyers and volume 
+	- track volume 
+		- charts that fly out of the gate with immediate volume and no info 
+		- scouting out reversals on older charts that have died for a while (ex. syncus)
+		- charts that recently had a lot of volume and died out but starting to pick up steam again 
+		- lots of options
+			- dexscreener volume trends on 5min timeframe 
+			- yardtools
+				- not free and requires some tweaking for your preferences 
+	- wallet tracker 
+		- Cielo 
+		- back-tracking wallets that bought in early in the current runners
+		- tracking movement of wallets with a large supply in coins that you're already holding
+		- tracking activity of dev wallets that haven't launched and watching their movements
+	- launch simulator 
+		- preparing to snipe (deadblocks, tax, max wallets, etc.)
+		- Otto ETH simulator 
+	- checking websites
+		- copyscape/who.is to see if website is stolen, copied, registered dates
+- vetting process
+	- checksums 
+		- filter blatant scams
+		- understand how they work
+		- ProficyPriceBot
+			- good for checksums pre-launch and price-checking post-launch
+		- DiscoBot (@discobot3) 
+	- websites
+		- copyscape
+		- rug rings
+			- a lot of scammers have patterns that are easy to identify 
+				- ex. utility scammers that launch coins related to LP farming utility multiple times a day with stolen sites
+	- intuition 
+		- build up by understanding why/how you got rugged and how to avoid getting rugged in the future (what warming signs did you miss?)
+- toughest sections during the competition 
+	- the beginning (1-10E)
+		- stressful (gas/bribe costs were legitimate portfolio hits)
+		- keep trade size very low (5% max per trade)
+		- hit shitters early (50-100k max)
+			- flip initials asap around 2-4x
+				- if the project looks like it has potential, scale out slowly with remainder
+		- at small size, 10-100k mcap is the same as 100k-1m mcap for your portfolio but with a lot less buy pressure needed 
+		- scalp-heavy until hitting a comfortable trading portfolio 
+	- the end (300E+) 
+		- biggest challenge is knowing which bags to trim/sell completely and which still had upwards trajectory 
+			- **need to forecast upcoming metas and predict how that would affect your bags**
+				- ex. BRC-related tokens took off and affected some of his holdings
+- biggest mistake (see AMA wrt impatience, buying bottomed tokens instead of new pairs to play narratives)
+- biggest edge: experience
+	- knowing exactly what to do/check when seeing 30+ buyers on a new coin without any other info 
+		- and being able to reach a decision in seconds 
+	- getting into a habit/flow of understanding patterns that ruggers tend to use
+	- being in established groups with grinders 
+	- understanding narratives behind volume spikes on different coins
+	- know when to/not to buy 
+	- autopilot --> bad habits + losses 
+		- put in time + effort and be strict with yourself 
+- "better wallets"
+	- ETH meta ebbs and flows between (3/3-5/5) utility coins and low/zero tax meme coins 
+	- better wallet:
+		- good win-rate on the coins that they buy --> generally profitable
+		- does not buy many coins --> not really a degen
+		- on average buys good coins vs. poor performers
+		- tends to holds instead of flipping
+		- ex.
+			- degen: 0x4ED3f64e235F9A2c10b7d5f05b56d97dFa77d6D1
+			- better: 0x213d5Db6d62c0166F800a8116b5f7039B1A8Abd0
+	- identify a trend of good wallets buying the lows of a coin
+		- join in with them and track their movements 
+		- often an initial reversal candle
+			- secure initials
+			- ride the rest up after 
+			- examples:
+				- $HRZN: 0x13c4b558f6663329c13c838cc0b5b796f7fc0531
+				- $TPAD: 0x5483dc6abda5f094865120b2d251b5744fc2ecb5
+				- $4096: 0x4096fc7119040175589387656f7c6073265f4096
+- misc.
+	- ETH is extra difficult/pvp as of late due to liquidity fragmentation 
+		- at the moment, more profitable for low-med bankrolls on chains like sol/avax 
+			- *won't always be the case*
+				- train your trading skills across various areas e.g. side-chaining
+				- always trade to your strength but don't become too set in your ways when the tide changes 
+					- always better to be profitable than being right
+	- dealing with tilt
+		- identify how you react to tilt/losing streaks and mitigate effects as much as possible 
+	- comparison: use others' success as motivation
+	- experience comes with screentime
+		- going through contracts
+		- refining workflow
+		- needs to become second nature, but need the reps
+		- bots can help shallow the curve to be competitive
+		- was largely break-even last year, but cleared 8-figs this year 
+	- believe in yourself + manifest success
+## AMA
+- preferred strategy
+	- buy right after launch + monitor buyers
+	- **bought exclusively 0.05 or 0.1E positions until 10E+**
+		- keep risk profile to a max of 10%
+- tools
+	- DRBT/TUF: contract/deployer checker
+		- functions
+		- checksums
+		- rugs
+	- DEXTNewPairsBot: new pairs by dextools
+	- Twitter: look for socials 
+	- Copyscape: see if website is copied/stolen
+- identifying what to buy
+	- never buy under 100k MC unless a very good reason for it
+	- under 100k
+		- observe narrative coins
+			- looks for small buys right after live in 10-15k range
+		- observe coins that ran hard in prior days but trading poorly now
+			- 80-90% from highs 
+			- join socials
+				- chat to devs
+				- ask why it's doing bad
+			- utility is a popular narrative 
+				- easy to find dips on things that will run in the coming days 
+	- criteria
+		- wallets
+			- **always**
+				- are they degens?
+				- are they people who don't usually trade as much?
+				- fresh wallets that could be connected to the dev?
+			- other than narrative trades (e.g. GROK), always have this as your primary focus
+			- how to check?
+				- he goes through buyers manually in dextools
+		- socials
+			- what is the project actually about?
+			- who is following it?
+			- are influencers soft shilling it?
+			- is the narrative actually hot at the moment?
+		- LP/distribution 
+			- too lopsided --> coin doesn't do well in early stages
+- risk mgmt
+	- comfort level was 10E
+		- before this, applied same risk strategy to every trade:
+			- **keep your buys small**
+				- 0.05-0.15 if port is 1-2E (mind cost of gas)
+				- keep buys at low market cap
+					- **strictly sub-50k**
+				- look for either narrative-based
+					- great Elon tweet
+					- utility-based
+				- *sell half at every 2x*
+> preservation of initials is more important than hitting a moonshot at lower portfolio sizes
+
+* *> 10E
+	* once at comfort level, shouldn't use previous strategy 
+	- relaxed holds much more often
+		- how to decide?
+			- previous criteria (wallets, socials, LP/distribution) but also the narrative behind something 
+				- utility
+					- what is this coin's utility?
+					- how does it tie into the ecosystem of the utility?
+					- what are the market caps of the closest competitors of the coin's utility?
+					- is it live?
+					- does it work well?
+					- how professional is the team?
+				- narrative/meme
+					- how many follows/new TG members are coming through daily?
+						- how active are the socials?
+					- how "viral" is the narrative? 
+					- is it Elon related or is it a simple meme for the average person to understand?
+- vetting for rugs/farms
+	- evaluate checksums 
+		- see how common the contract actually is 
+			- common projects are more likely to rug
+		- tools
+			- Otto Simulator 
+			- Proficy
+	- timing 
+		- if seeing copy-cat ideas deploying after the original, more likely to be illegitimate 
+			- ruggers ride tailwinds 
+	- copyscape
+		- find repeated scammers that often use stolen websites for these types of things
+	- farms have two camps:
+		- team spends money and the project does well
+			- ex. Aegis AI
+		- team pockets the money and slow rugs while doing nothing
+	- previous criteria should generally give a good feel for what project owners are doing
+	- can add farmer/rugger devs into TG contact list to identify profile changes
+	- meme farms
+		- all use the same 1 sell a block contract
+		- two scenarios
+			- snipe the launch and look to scale out if volume is subpar
+			- wait out the contract clog and observe buying pressure afterwards
+- **sell bad performers, not good ones**
+- biggest mistake during competition 
+	- swinging FROGE bottom
+		- made 0.35E from 2E, but then proceeded to 100x
+		- too annoyed to buy back in during the entire run-up 
+		- was worth 750k at the top if held 
+		- **impatience**
+			- narrative was good
+			- not many other contracts doing it well at the time 
+- narrative plays
+	- **often the right play is a bottomed coin that already exists vs. new pairs**
+		- meets following criteria:
+			- 0 tax
+			- burned LP
+			- needs to match the name
+				- don't gamble NW on fresh farmers aiming to take your money 
+- bribing 
+	- how many wallets does the banana UI say is sniping?
+		- < 10
+			- can get in with 0.01-0.05
+		- mentally double it for each step higher it goes
+		- > 30+ could potentially be A LOT more 
+	- max txn
+		- double it for each double in % max txn 
+		- ex.
+			- tip 0.06E for 0.5% of a coin
+			- 0.12E for 1%
+			- 0.24 for 2%
+			- etc. 
+		- no max 
+			- guessing game to win
+			- to mitigate losses, use the banana included setting of MIN % out
+				- "if you don't snip n-% of coin with snip, fail"
+				- **not enough ppl use this setting**
+	- hype
+		- is it being posted in ECA groups?
+		- did dev announce contract pre-launch?
+		- how many maestro hits does it have?
+		- how badly (cost) do I want to get into this coin?
+		- how much are you willing to lose to ensure you get an entry into this coin and make a significant profit?
+	- tax
+		- higher the tax, more cautious you must be to break even 
+- mental game
+	- tilt
+		- manifests in different ways for different people
+			- req starts buying random stuff without researching them properly and throws a lot of money away (agree with this)
+	- be self-analytical and understand when you're on a bad streak --> take a break and persevere 
+	- do backtests
+		- understand why your previous trades were good or bad 
+		- **do mentally simulated buys on things if worried about losing bankroll**
+	- a lot of sleepless nights trying to hit a few plays to until hitting his comfort level 
+- limit orders
+	- no stop loss 
+	- limit buy
+		- fast moving narrative coins that he really wants to catch dips on 
+	- limit sell
+		- going to sleep and wanting to take profit at a specific mcap 
+- using banana
+	- ease of use, especially for sniping 
+	- more accurate PnL statements in sell bot
+	- fees 
+	- mobile (traded majority from his bed lol)
+- time investment
+	- 7-12+ hours/day 
+- copy traders
+	- profited from them but not because he wanted to
+		- **invests in tokens that have the least current attention with most given upside**
+			- copy traders turned plays into something with too much attention and accelerate future buyers and lead to a big PND candle --> messes up the future attention and chart
